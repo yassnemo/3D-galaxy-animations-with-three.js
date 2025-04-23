@@ -1,6 +1,11 @@
-# 3D Galaxy Navigation with Three.js
+## 3D Galaxy Navigation with Three.js
 
 This project showcases an immersive 3D galaxy experience built with Three.js. Users can navigate through a beautiful cosmic environment filled with spiral galaxies and stars, creating an engaging and interactive web-based experience.
+
+## Demo
+
+![image](https://github.com/user-attachments/assets/fd45e9fa-d0a5-4400-8160-b1495a2efffd)
+
 
 
 ## Project Structure
