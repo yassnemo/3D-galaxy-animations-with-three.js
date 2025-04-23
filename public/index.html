@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Yassine Erradouani</title>
+    <link rel="stylesheet" href="styles.css">
+    <!-- No need to include Three.js here - it will be bundled by webpack -->
+</head>
+<body>
+    <div id="animation-container"></div>
+    
+    <!-- Loading indicator -->
+    <div class="loader">
+        <div class="loader-text">Loading Animation...</div>
+    </div>
+    
+    <!-- Credits -->
+    <div class="credits">Created for Yassine Erradouani</div>
+    
+    <script src="/bundle.js"></script>
+    <script>
+        // Hide loader when animation is loaded
+        window.addEventListener('load', function() {
+            setTimeout(function() {
+                document.querySelector('.loader').classList.add('hidden');
+            }, 1000);
+        });
+    </script>
+</body>
+</html>

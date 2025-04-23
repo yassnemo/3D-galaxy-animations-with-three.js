@@ -1,0 +1,135 @@
+{
+  "version": 1,
+  "glyphs": [
+    {
+      "font": "Yassine Erradouani",
+      "unicode": "U+0059",
+      "name": "Y",
+      "width": 600,
+      "height": 800
+    },
+    {
+      "font": "Yassine Erradouani",
+      "unicode": "U+0061",
+      "name": "a",
+      "width": 500,
+      "height": 800
+    },
+    {
+      "font": "Yassine Erradouani",
+      "unicode": "U+0073",
+      "name": "s",
+      "width": 500,
+      "height": 800
+    },
+    {
+      "font": "Yassine Erradouani",
+      "unicode": "U+0073",
+      "name": "s",
+      "width": 500,
+      "height": 800
+    },
+    {
+      "font": "Yassine Erradouani",
+      "unicode": "U+0069",
+      "name": "i",
+      "width": 300,
+      "height": 800
+    },
+    {
+      "font": "Yassine Erradouani",
+      "unicode": "U+006E",
+      "name": "n",
+      "width": 500,
+      "height": 800
+    },
+    {
+      "font": "Yassine Erradouani",
+      "unicode": "U+0065",
+      "name": "e",
+      "width": 500,
+      "height": 800
+    },
+    {
+      "font": "Yassine Erradouani",
+      "unicode": "U+0020",
+      "name": " ",
+      "width": 200,
+      "height": 800
+    },
+    {
+      "font": "Yassine Erradouani",
+      "unicode": "U+0045",
+      "name": "E",
+      "width": 600,
+      "height": 800
+    },
+    {
+      "font": "Yassine Erradouani",
+      "unicode": "U+0072",
+      "name": "r",
+      "width": 400,
+      "height": 800
+    },
+    {
+      "font": "Yassine Erradouani",
+      "unicode": "U+0072",
+      "name": "r",
+      "width": 400,
+      "height": 800
+    },
+    {
+      "font": "Yassine Erradouani",
+      "unicode": "U+0061",
+      "name": "a",
+      "width": 500,
+      "height": 800
+    },
+    {
+      "font": "Yassine Erradouani",
+      "unicode": "U+0064",
+      "name": "d",
+      "width": 500,
+      "height": 800
+    },
+    {
+      "font": "Yassine Erradouani",
+      "unicode": "U+006F",
+      "name": "o",
+      "width": 500,
+      "height": 800
+    },
+    {
+      "font": "Yassine Erradouani",
+      "unicode": "U+0075",
+      "name": "u",
+      "width": 500,
+      "height": 800
+    },
+    {
+      "font": "Yassine Erradouani",
+      "unicode": "U+0061",
+      "name": "a",
+      "width": 500,
+      "height": 800
+    },
+    {
+      "font": "Yassine Erradouani",
+      "unicode": "U+006E",
+      "name": "n",
+      "width": 500,
+      "height": 800
+    },
+    {
+      "font": "Yassine Erradouani",
+      "unicode": "U+0069",
+      "name": "i",
+      "width": 300,
+      "height": 800
+    }
+  ],
+  "familyName": "Yassine Erradouani",
+  "ascender": 800,
+  "descender": -200,
+  "lineHeight": 1000
+}

@@ -1,0 +1,33 @@
+{
+  "name": "name-animation-threejs",
+  "version": "1.0.0",
+  "description": "A creative animated representation of the name Yassine Erradouani using Three.js.",
+  "main": "src/index.js",
+  "scripts": {
+    "build": "webpack --mode production",
+    "start": "webpack serve --mode development --open"
+  },
+  "keywords": [
+    "three.js",
+    "animation",
+    "web",
+    "canvas"
+  ],
+  "author": "Yassine Erradouani",
+  "license": "MIT",
+  "dependencies": {
+    "three": "^0.149.0",
+    "gsap": "^3.11.4"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.21.0",
+    "@babel/preset-env": "^7.20.2",
+    "webpack": "^5.75.0",
+    "webpack-cli": "^5.0.1",
+    "webpack-dev-server": "^4.11.1",
+    "babel-loader": "^9.1.2",
+    "css-loader": "^6.7.3",
+    "style-loader": "^3.3.1",
+    "file-loader": "^6.2.0"
+  }
+}
